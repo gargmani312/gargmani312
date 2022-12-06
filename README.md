@@ -15,14 +15,14 @@ My expertise are in below technology as a full stack developer:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargmani312&label=Profile%20views&color=0e75b6&style=flat" alt="gargmani312" /> </p>
 
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarsingh5536" alt="amarsingh5536" /></a> </p>--->
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargmani312" alt="gargmani312" /></a> </p>--->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manish-sharma-487579157/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gargmani312" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Manish-Sharma/100002890733088/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amarthakurofficial" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mani_sharma_07/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarthakurofficial" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Manish-Sharma/100002890733088/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gargmani312" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mani_sharma_07/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gargmani312" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
